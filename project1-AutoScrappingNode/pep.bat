@@ -1,0 +1,1 @@
+node puppeteer_auto.js "credentials.json"
