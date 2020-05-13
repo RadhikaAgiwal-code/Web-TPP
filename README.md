@@ -1,1 +1,1 @@
-# Web-TPP
+An automation script using nodeJs with puppeteer...It searches the job in our desired field and location and then it apply for the job according to selected salary,duration,location and company for every job..along this it will also save the job titles and summary in a file.
